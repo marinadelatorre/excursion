@@ -23,16 +23,6 @@ h1 {
 	font-size: 16px;
 }
 
-a: -webkit-any-link {
-	color: -webkit-link;
-	cursor: pointer;
-	text-decoration: underline;
-		text-decoration-line: underline;
-		text-decoration-thickness: initial;
-		text-decoration-style: initial;
-		text-decoration-color: initial;
-}
-
 h2 {
 	font-family: Verdana, sans-serif;
 	font-weight: 300;
